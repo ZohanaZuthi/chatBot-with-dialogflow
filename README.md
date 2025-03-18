@@ -1,0 +1,2 @@
+# ChatBot with dialogflow
+ This project is a chatbot designed for handling frequently asked questions (FAQ) on a food website. Built using Dialogflow, it helps customers by answering common queries related to the food menu, order status, special offers, store hours, and payment support. The chatbot enhances the user experience by providing quick and accurate information, ensuring that customers can easily navigate through the website's offerings.
