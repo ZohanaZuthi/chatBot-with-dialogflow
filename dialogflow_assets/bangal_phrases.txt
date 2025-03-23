@@ -1,0 +1,147 @@
+Order.add:
+Here’s a collection of sentences styled like your request, featuring Bengali food items for training purposes. I’ll provide a variety so you can practice with different combinations:
+
+1. "Please prepare 3 plates of Bengali chicken biryani, 2 glasses of mango shorbot, and 1 serving of kathi rolls."
+2. "I’d like 3 portions of bhapa ilish, 2 cups of mishti cha (sweet tea), and 1 plate of phuchka."
+3. "Can you serve me 3 bowls of chingri malai curry, 2 glasses of gondhoraj lassi, and 1 portion of aloo posto?"
+4. "Get me 3 plates of khejur gur payesh, 2 cups of aam telkoi drink, and 1 serving of mutton dakbunglow."
+5. "Please fetch 3 servings of shukto, 2 glasses of jolbhora sandesh drink, and 1 plate of dimer devil."
+6. "I want 3 portions of katla macher jhol, 2 cups of lebu cha, and 1 serving of narkel naru."
+7. "Kindly bring 3 plates of luchi with kosha mangsho, 2 glasses of mango misti doi shake, and 1 bowl of labra."
+8. "Prepare for me 3 servings of bhetki paturi, 2 cups of aam kasundi cooler, and 1 plate of mochar ghonto."
+9. "Please arrange 3 bowls of rui macher kalia, 2 glasses of borhani, and 1 portion of cholar dal."
+10. "I’d love 3 plates of pui shak bhaja with rice, 2 cups of gondhoraj sharbat, and 1 serving of sandesh."
+
+order items entity------->
+Sure! Here are some synonyms or alternate/local-style names, descriptive forms, or similar ways of referring to each of those Bangladeshi dishes:
+
+---
+
+**1. Kacchi Biryani**  
+- Kacchi  
+- Mutton Biryani  
+- Wedding Biryani  
+- Kacchi Dum Biryani  
+
+**2. Beef Tehari**  
+- Gorur Mangshor Tehari  
+- Yellow Beef Pulao  
+- Tehari  
+- Dhaka-style Tehari  
+
+**3. Shorshe Ilish**  
+- Mustard Hilsa Curry  
+- Ilish Bhuna with Mustard  
+- Shorshe Maachh (Hilsa)  
+- Ilish Shorshe Bata  
+
+**4. Panta Ilish**  
+- Water-soaked Rice with Hilsa  
+- Panta Bhaat with Ilish  
+- Fermented Rice & Fried Hilsa  
+- Naboborsho Special  
+
+**5. Chicken Rezala**  
+- White Chicken Curry  
+- Mughlai Chicken Rezala  
+- Rezala Chicken  
+- Yogurt-based Chicken Curry  
+
+**6. Beef Kala Bhuna**  
+- Blackened Beef Curry  
+- Spicy Beef Roast  
+- Kala Mangsho  
+- Chattogram Kala Bhuna  
+
+**7. Chingri Malai Curry**  
+- Coconut Prawn Curry  
+- Chingri Narkel Jhol  
+- Creamy Prawn Curry  
+- Malai Chingri  
+
+**8. Shutki Bhuna**  
+- Dried Fish Curry  
+- Fermented Fish Fry  
+- Nona Shutki Curry  
+- Spicy Shutki Masala  
+
+**9. Begun Bharta**  
+- Mashed Eggplant  
+- Baingan Bharta (Indian synonym)  
+- Begun Makha  
+- Charred Eggplant Mash  
+
+**10. Aloo Bharta**  
+- Mashed Potato with Mustard Oil  
+- Aloo Makha  
+- Spiced Potato Mash  
+- Bengali Style Aloo Mash  
+
+**11. Shutki Bharta**  
+- Mashed Dried Fish  
+- Shutki Makha  
+- Spiced Dry Fish Mash  
+- Nona Shutki Bharta  
+
+**12. Dal**  
+- Lentil Soup  
+- Masoor/Moong Dal  
+- Bengali Dal  
+- Daal-er Jhol  
+
+**13. Fuchka**  
+- Pani Puri (Indian name)  
+- Golgappa  
+- Tok Jhal Misti Fuchka  
+- Crispy Water Balls  
+
+**14. Chotpoti**  
+- Chickpea Chaat  
+- Spicy Chickpea Mix  
+- Tok-Jhal Chotpoti  
+- Alu-Chola Masala  
+
+**15. Singara**  
+- Samosa (Indian equivalent)  
+- Potato-filled Pastry  
+- Alur Singara  
+- Triangular Savory Snack  
+
+
+For order.add to train with order items--------->
+
+
+1. "Please prepare 3 plates of Kacchi Dum Biryani, 2 servings of Mustard Hilsa Curry, and 1 portion of Creamy Prawn Curry."
+2. "I’d like 3 portions of Gorur Mangshor Tehari, 2 plates of Panta Bhaat with Ilish, and 1 serving of Mughlai Chicken Rezala."
+3. "Can you serve me 3 bowls of Ilish Shorshe Bata, 2 portions of Blackened Beef Curry, and 1 plate of Mashed Eggplant?"
+4. "Get me 3 plates of Wedding Biryani, 2 servings of Coconut Prawn Curry, and 1 portion of Spiced Potato Mash."
+5. "Please fetch 3 servings of Dhaka-style Tehari, 2 plates of Fermented Rice & Fried Hilsa, and 1 bowl of Lentil Soup."
+6. "I want 3 portions of Shorshe Maachh (Hilsa), 2 servings of Spicy Beef Roast, and 1 plate of Tok Jhal Misti Fuchka."
+7. "Kindly bring 3 plates of Mutton Biryani, 2 portions of Chingri Narkel Jhol, and 1 serving of Bengali Style Aloo Mash."
+8. "Prepare for me 3 servings of Naboborsho Special, 2 plates of White Chicken Curry, and 1 portion of Dried Fish Curry."
+9. "Please arrange 3 bowls of Chattogram Kala Bhuna, 2 servings of Golgappa, and 1 plate of Masoor/Moong Dal."
+10. "I’d love 3 plates of Yellow Beef Pulao, 2 portions of Malai Chingri, and 1 serving of Begun Makha."
+11. "Please serve 3 portions of Kacchi, 2 plates of Nona Shutki Curry, and 1 bowl of Chickpea Chaat."
+12. "Can you get me 3 bowls of Yogurt-based Chicken Curry, 2 servings of Spicy Shutki Masala, and 1 plate of Alur Singara?"
+13. "I’d like 3 plates of Water-soaked Rice with Hilsa, 2 portions of Kala Mangsho, and 1 serving of Charred Eggplant Mash."
+14. "Prepare 3 servings of Daal-er Jhol, 2 plates of Rezala Chicken, and 1 portion of Spiced Dry Fish Mash."
+15. "Please bring 3 portions of Crispy Water Balls, 2 servings of Ilish Bhuna with Mustard, and 1 plate of Triangular Savory Snack."
+
+
+
+16. "Please prepare 3 plates of Kacchi, 2 servings of Shorshe Maachh (Hilsa), and 1 portion of Spicy Chickpea Mix."
+17. "I’d like 3 portions of Mutton Biryani, 2 plates of Fermented Rice & Fried Hilsa, and 1 serving of Coconut Prawn Curry."
+18. "Can you serve me 3 bowls of Beef Kala Bhuna, 2 portions of Mashed Potato with Mustard Oil, and 1 plate of Pani Puri."
+19. "Get me 3 plates of Dhaka-style Tehari, 2 servings of White Chicken Curry, and 1 portion of Nona Shutki Bharta."
+20. "Please fetch 3 servings of Ilish Shorshe Bata, 2 plates of Chingri Narkel Jhol, and 1 bowl of Bengali Dal."
+21. "I want 3 portions of Wedding Biryani, 2 servings of Spicy Beef Roast, and 1 plate of Alu-Chola Masala."
+22. "Kindly bring 3 plates of Naboborsho Special, 2 portions of Creamy Prawn Curry, and 1 serving of Aloo Makha."
+23. "Prepare for me 3 servings of Yellow Beef Pulao, 2 plates of Mustard Hilsa Curry, and 1 portion of Potato-filled Pastry."
+24. "Please arrange 3 bowls of Chattogram Kala Bhuna, 2 servings of Begun Makha, and 1 plate of Daal-er Jhol."
+25. "I’d love 3 plates of Kacchi Dum Biryani, 2 portions of Yogurt-based Chicken Curry, and 1 serving of Tok-Jhal Chotpoti."
+26. "Please serve 3 portions of Panta Bhaat with Ilish, 2 plates of Malai Chingri, and 1 bowl of Spiced Dry Fish Mash."
+27. "Can you get me 3 bowls of Gorur Mangshor Tehari, 2 servings of Dried Fish Curry, and 1 plate of Crispy Water Balls."
+28. "I’d like 3 plates of Blackened Beef Curry, 2 portions of Ilish Bhuna with Mustard, and 1 serving of Triangular Savory Snack."
+29. "Prepare 3 servings of Rezala Chicken, 2 plates of Water-soaked Rice with Hilsa, and 1 portion of Charred Eggplant Mash."
+30. "Please bring 3 portions of Golgappa, 2 servings of Kala Mangsho, and 1 plate of Masoor/Moong Dal."
+
